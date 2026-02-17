@@ -1,49 +1,52 @@
-## 📊 E-Commerce Executive Sales Dashboard (Tableau)
-# 🔍 Project Overview
+# 📊 E-Commerce Executive Sales Dashboard (Tableau)
+## 🔍 Project Overview
 
 This project analyzes the Brazilian E-Commerce dataset to uncover revenue performance, customer behavior, and product category insights using Tableau.
 
-# The dashboard provides an executive-level overview of:
+## The dashboard provides an executive-level overview of:
 
-Total Revenue
+- Total Revenue
 
-Total Orders
+- Total Orders
 
-Average Order Value
+- Average Order Value
 
-Repeat Customer Percentage
+- Repeat Customer Percentage
 
-Monthly Revenue Trends
+- Monthly Revenue Trends
 
-Top Performing Product Categories
+- Top Performing Product Categories
 
 ## 🧠 Key Business Insights
 
-Generated ₹16M+ total revenue
+- Generated ₹16M+ total revenue
 
-Processed 99K+ orders
+- Processed 99K+ orders
 
-Low repeat customer rate (~3%), indicating retention opportunity
+- Low repeat customer rate (~3%), indicating retention opportunity
 
-Identified top-performing product categories
+- Identified top-performing product categories
 
-Observed seasonal revenue fluctuations
+- Observed seasonal revenue fluctuations
 
 ## 🛠 Tools & Techniques Used
 
-Tableau Desktop Public
+- Tableau Desktop Public
 
-Level of Detail (LOD) Expressions
+- Level of Detail (LOD) Expressions
 
-Physical Data Joins
+- Physical Data Joins
 
-Calculated Fields
+- Calculated Fields
 
-KPI Design
+- KPI Design
 
-Data Visualization Best Practices
+- Data Visualization Best Practices
 
 ## 📂 Dataset
 
-Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+[Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+ ## Author
+ Tejaswini
+ Check if you find it useful give a star for my work
